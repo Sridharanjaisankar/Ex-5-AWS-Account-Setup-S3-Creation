@@ -1,7 +1,7 @@
 # Ex-05-AWS-Account-setup-and-S3-creation
 
-**Name** : Yuvaraj B<br>
-**Reg No** : 212222040186
+**Name** : Sridharan J<br>
+**Reg No** : 212222040158
 
 ## Introduction
 
